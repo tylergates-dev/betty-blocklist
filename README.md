@@ -18,7 +18,7 @@ A custom uBlock Origin filter list that blocks US home buying, real estate listi
 5. Paste the following URL:
 
 ```
-https://raw.githubusercontent.com/YOUR_USER/betty-blocklist/main/homebuying-blocklist.txt
+https://raw.githubusercontent.com/tylergates-dev/betty-blocklist/main/homebuying-blocklist.txt
 ```
 
 6. Click **Apply changes**
