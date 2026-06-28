@@ -1,0 +1,69 @@
+! Title: Betty Homebuying Blocklist
+! Description: Blocks US home buying, real estate listing, and mortgage sites
+! Homepage: https://raw.githubusercontent.com/YOUR_USER/betty-blocklist/main/homebuying-blocklist.txt
+! Last modified: 2026-06-28
+! Version: 1.0
+
+||zillow.com^
+||trulia.com^
+||realtor.com^
+||redfin.com^
+||homes.com^
+||homefinder.com^
+||homelight.com^
+||opendoor.com^
+||offerpad.com^
+||movoto.com^
+||coldwellbanker.com^
+||century21.com^
+||remax.com^
+||kw.com^
+||kellerwilliams.com^
+||compass.com^
+||sothebysrealty.com^
+||bhgrealestate.com^
+||era.com^
+||weichert.com^
+||homesnap.com^
+||estately.com^
+||landwatch.com^
+||loopnet.com^
+||point2homes.com^
+||neighborhoodscout.com^
+||realtyonegroup.com^
+||berkshirehathaway.com^
+||houselogic.com^
+||newhomesource.com^
+||newconstructions.com^
+||builderonline.com^
+||housinglist.com^
+||mhvillage.com^
+||mobilehomeparkstore.com^
+||foreclosure.com^
+||auction.com^
+||hubzu.com^
+||homesales.gov^
+||hud.gov/buying^
+||rocket mortgage^
+||rocketmortgage.com^
+||lendio.com^
+||bankrate.com/mortgages^
+||nerdwallet.com/mortgages^
+||lendingtree.com^
+||loandepot.com^
+||betterfinance.com^
+||better.com^
+||pennymac.com^
+||caliberhomeloans.com^
+||unitedshorefinancial.com^
+||movement.com^
+||newrez.com^
+||mrcooper.com^
+||flagstar.com^
+||lakeviewloanservicing.com^
+||freedom mortgage.com^
+||freedommortgage.com^
+||homepointfinancial.com^
+||loandepot.com^
+||guaranteed rate.com^
+||guaranteedrate.com^
